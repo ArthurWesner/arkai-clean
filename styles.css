@@ -515,6 +515,7 @@ header {
 }
 
 .topic {
+    border: 2px solid #8b3e3e;
     scroll-snap-align: start;
     background: linear-gradient(600deg, #ffbae49c, #f0aaf9e3);
     padding: 15px; /* Reduz um pouco o padding para diminuir a altura total */
